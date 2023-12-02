@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/dstuart/models"
+	"github.com/dstuart/medium_client/models"
 )
 
 // GetMeReader is a Reader for the GetMe structure.

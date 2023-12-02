@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/dstuart/models"
+	"github.com/dstuart/medium_client/models"
 )
 
 // NewPostUsersAuthorIDPostsParams creates a new PostUsersAuthorIDPostsParams object,
